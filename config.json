@@ -1,0 +1,25 @@
+{
+    "tokens": [
+        {
+            "name": "Token 1",
+            "token": "MTQwMTI3MTIzODU1NDQxOTIwMQ.G168VP.b81pjC7Mv15eERYAFfa_8cWaBJcPIGW5qJ5BGQ",
+            "priority": 1
+        }
+    ],
+    "monitored_servers": {
+        "1543363438733164576": {
+            "server_name": "Your Server",
+            "invite_link": "https://discord.gg/R3kcdBWm8",
+            "message": "This server is a h1t / flop / fake mm server leave and dont do any trades!",
+            "processed_members": [
+                "739043296915226625"
+            ]
+        }
+    },
+    "nopecha_api_key": "0ssnr2n7blp5jywu",
+    "general_settings": {
+        "max_daily_dms_per_token": 50,
+        "max_daily_dms_per_server": 30,
+        "scan_interval": 15
+    }
+}
